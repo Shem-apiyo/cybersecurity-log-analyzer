@@ -2,6 +2,10 @@
 
 A C++ console application that analyzes mixed security log formats and scans local Chrome/Chromium profile configuration files for potentially risky browser settings or extension permissions.
 
+## About
+
+Cybersecurity Log Analyzer is a Windows-friendly C++ security tool for reviewing sample or real log files, identifying suspicious activity, and checking local Chrome-based browser profiles for risky extension permissions. It is built for learning, auditing, and practicing basic defensive security analysis from the command line.
+
 ## Features
 
 - Parses custom application login logs.
