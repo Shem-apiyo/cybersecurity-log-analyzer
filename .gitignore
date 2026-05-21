@@ -1,0 +1,22 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+
+# Generated analyzer reports
+alerts.csv
+analysis_report.txt
+chrome_findings.csv
+chrome_security_report.txt
+ip_summary.csv
+timeline.csv
+timeline.txt
+
+# Generated sample data
+sample_mixed_logs.txt
+
+# Local editor/OS noise
+.DS_Store
+Thumbs.db
